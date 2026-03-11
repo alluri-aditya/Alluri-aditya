@@ -119,7 +119,7 @@ I enjoy solving complex problems, designing REST APIs, and building real-world b
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alluri-aditya&layout=compact&theme=tokyonight"/>
 
 </p>
 
