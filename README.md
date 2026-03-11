@@ -5,36 +5,40 @@
   Hi, I'm <strong>Aditya</strong>
 </h1>
 
-<h3>Java Backend Developer | Spring Boot • REST APIs • System Design</h3>
+<h3>Java Backend Developer | Spring Boot • Distributed Systems • API Design</h3>
 
 <div align="left">
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
 <p>
-Backend developer passionate about building scalable and efficient systems using Java.
-I enjoy solving complex problems, designing REST APIs, and building real-world backend services.
+I build backend systems that power real applications — from API design to database architecture.  
+My focus is on writing clean, scalable backend services using <b>Java, Spring Boot, and MySQL</b>.
+</p>
+
+<p>
+Currently improving my skills in <b>system design, performance optimization, and scalable architectures</b>.
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💼_Java_Backend_Developer-1e1e2e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⚡_DSA_Enthusiast-1e1e2e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀_Learning_System_Design-1e1e2e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻_Java_Backend_Developer-1e1e2e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡_DSA_Problem_Solver-1e1e2e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Building_Real_Backend_Systems-1e1e2e?style=for-the-badge"/>
 </p>
 
 </div>
 
-<br clear="all" />
+<br clear="all"/>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
 <a href="https://github.com/alluri-aditya">
-<img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/alluri-aditya">
@@ -49,73 +53,96 @@ I enjoy solving complex problems, designing REST APIs, and building real-world b
 
 ---
 
-## 🛠 Tech Stack
+# ⚙️ Tech Stack
 
-### 💻 Programming Languages
+### Programming
 
-<img src="https://skillicons.dev/icons?i=java,python" />
+<img src="https://skillicons.dev/icons?i=java,python"/>
 
-### ⚙ Backend Frameworks
+### Backend
 
-<img src="https://skillicons.dev/icons?i=spring/>
+<img src="https://skillicons.dev/icons?i=spring"/>
 
-### 🗄 Databases
+### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql />
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
-### 🧰 Tools & Platforms
+### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode" />
-
----
-
-## 🧠 Core Concepts
-
-✔ Data Structures & Algorithms  
-✔ Object Oriented Programming (OOP)  
-✔ REST API Development  
-✔ Database Design  
-✔ Backend System Design  
-✔ Microservices Basics  
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode"/>
 
 ---
 
-## 🚀 Backend Projects
+# 🧠 Engineering Focus
 
-### 🍔 Food Delivery Backend System
-• Built REST APIs using **Spring Boot**  
-• Managed users, restaurants, orders, and payments  
-• Integrated **MySQL database**
+• Designing scalable **REST APIs**  
+• Writing clean **object-oriented Java code**  
+• Building **database-driven backend services**  
+• Practicing **Data Structures & Algorithms**  
+• Learning **System Design & Distributed Systems**
+
+---
+
+# 🚀 Real World Backend Projects
+
+### 🍔 Food Delivery Platform Backend
+
+Designed backend APIs for a food ordering platform.
+
+Features:
+- User authentication & profile management
+- Restaurant listing & menu management
+- Order creation and tracking
+- Payment status handling
+
+Tech Stack:
+`Spring Boot • MySQL • REST APIs`
 
 ---
 
 ### 🧾 Billing & Invoice Management System
-• Customer management system  
-• Invoice generation and payment tracking  
-• Backend developed using **Java + MySQL**
+
+Backend system for small businesses to manage customers and billing.
+
+Features:
+- Customer database management
+- Invoice generation
+- Payment tracking
+- Transaction history APIs
+
+Tech Stack:
+`Java • Spring Boot • MySQL`
 
 ---
 
-### 📦 Order Management REST API
-• CRUD APIs for products and orders  
-• Authentication and validation  
-• Database integration using **MySQL**
+### 📦 Order Management Service
+
+REST API service that manages product orders for an ecommerce workflow.
+
+Features:
+- Product inventory APIs
+- Order lifecycle management
+- Input validation and error handling
+- Database optimized queries
+
+Tech Stack:
+`Spring Boot • MySQL • Postman`
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alluri-aditya&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alluri-aditya&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 📈 Most Used Languages
+# 📈 Most Used Languages
 
 <p align="center">
 
@@ -125,12 +152,14 @@ I enjoy solving complex problems, designing REST APIs, and building real-world b
 
 ---
 
-## 👀 Profile Views
+# 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=alluri-aditya&color=blue"/>
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Currently Working On
 
-I enjoy solving **DSA problems on LeetCode** and building **scalable backend systems using Java and Spring Boot**.
+• Building **production-ready backend APIs**  
+• Practicing **advanced DSA for interviews**  
+• Learning **scalable backend architecture**
