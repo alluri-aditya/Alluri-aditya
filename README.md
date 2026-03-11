@@ -53,7 +53,7 @@ I enjoy solving complex problems, designing REST APIs, and building real-world b
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java,python" />
 
 ### ⚙ Backend Frameworks
 
