@@ -33,15 +33,15 @@ I enjoy solving complex problems, designing REST APIs, and building real-world b
 
 <p align="left">
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/alluri-aditya">
 <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/alluri-aditya">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/yourprofile">
+<a href="https://leetcode.com/ALLURI12345">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
