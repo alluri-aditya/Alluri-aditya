@@ -57,11 +57,11 @@ I enjoy solving complex problems, designing REST APIs, and building real-world b
 
 ### ⚙ Backend Frameworks
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+<img src="https://skillicons.dev/icons?i=spring/>
 
 ### 🗄 Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql />
 
 ### 🧰 Tools & Platforms
 
