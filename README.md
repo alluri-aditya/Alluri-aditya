@@ -1,165 +1,118 @@
 ```md
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
-
-<h1 align="left">
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28"/>
-Hi, I'm <strong>Aditya</strong>
-</h1>
-
-<h3>Java Backend Developer | Spring Boot • REST APIs • MySQL</h3>
-
-<div align="left">
-
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
-
-<p>
-I build backend systems and REST APIs using <b>Java, Spring Boot, and MySQL</b>.  
-My focus is on designing clean backend architecture, building database-driven services, and improving problem solving through Data Structures & Algorithms.
+<!-- Banner -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aditya%20Alluri&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<p>
-Currently learning more about <b>scalable backend systems, API design, and system design fundamentals</b>.
-</p>
+# Hi 👋 I'm Aditya
 
-<p>
+### Java Backend Developer | Spring Boot • REST APIs • MySQL
 
-<img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💻_Java_Backend_Developer-1e1e2e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⚡_DSA_Practice-1e1e2e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀_Backend_Project_Builder-1e1e2e?style=for-the-badge"/>
+I build backend systems and REST APIs using **Java, Spring Boot, and MySQL**.  
+My focus is on designing clean backend architecture and building scalable backend services.
 
-</p>
-
-</div>
-
-<br clear="all"/>
+Currently learning more about **system design, backend architecture, and performance optimization.**
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/alluri-aditya)
 
-<a href="https://github.com/alluri-aditya">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alluri-aditya)
 
-<a href="https://linkedin.com/in/alluri-aditya">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/ALLURI12345">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ALLURI12345)
 
 ---
 
 # ⚙️ Tech Stack
 
 ### Programming
-<img src="https://skillicons.dev/icons?i=java"/>
+![Java](https://skillicons.dev/icons?i=java)
 
-### Backend Framework
-<img src="https://skillicons.dev/icons?i=spring"/>
+### Backend
+![Spring](https://skillicons.dev/icons?i=spring)
 
 ### Database
-<img src="https://skillicons.dev/icons?i=mysql"/>
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
+![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode)
 
 ---
 
 # 🧠 Engineering Focus
 
-• Building backend systems with **Java & Spring Boot**  
-• Designing and implementing **RESTful APIs**  
-• Creating efficient **MySQL database schemas**  
+• Building backend systems using **Java & Spring Boot**  
+• Designing **RESTful APIs**  
+• Working with **MySQL database schemas**  
 • Practicing **Data Structures & Algorithms**  
-• Learning **backend system design fundamentals**
+• Learning **backend system design**
 
 ---
 
 # 🚀 Backend Projects
 
-### 💰 Paytm-like E-Wallet Backend System
+## 💰 Paytm-like E-Wallet Backend System
 
-Developed a backend system for managing digital wallet operations.
+Backend system for digital wallet operations.
 
-Features:
-- User account creation and wallet balance management  
-- Peer-to-peer money transfer APIs  
-- Wallet recharge functionality  
+Features
+- User account management  
+- Wallet recharge APIs  
+- Peer-to-peer transfers  
 - Transaction history APIs  
 
-Tech Stack:  
-`Java • Spring Boot • MySQL • REST APIs • Postman`
+Tech Stack  
+`Java • Spring Boot • MySQL • REST APIs`
 
 ---
 
-### 🧾 Enterprise Subscription & Billing Management System
+## 🧾 Enterprise Subscription & Billing Management System
 
-Backend system designed to manage subscription plans and billing cycles.
+Backend service to manage subscriptions and billing cycles.
 
-Features:
-- Subscription creation and management  
-- Plan upgrades and cancellations  
+Features
+- Subscription management  
+- Plan upgrades & cancellations  
 - Automated invoice generation  
 - Billing cycle handling  
 
-Tech Stack:  
+Tech Stack  
 `Java • Spring Boot • MySQL`
 
 ---
 
-### 🍔 Food Delivery Platform Backend
+## 🍔 Food Delivery Platform Backend
 
-Backend APIs supporting food ordering platform operations.
+Backend APIs for food ordering platform.
 
-Features:
-- User registration and authentication APIs  
-- Restaurant listings and menu management  
-- Order creation and order tracking  
-- Database schema for users, restaurants, menus, and orders  
+Features
+- User registration APIs  
+- Restaurant listings & menus  
+- Order creation & tracking  
+- Database schema for orders & restaurants  
 
-Tech Stack:  
+Tech Stack  
 `Java • Spring Boot • MySQL`
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alluri-aditya&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alluri-aditya&theme=tokyonight"/>
-
-</p>
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=alluri-aditya&show_icons=true&theme=tokyonight)
 
 ---
 
 # 📈 Most Used Languages
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alluri-aditya&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=alluri-aditya&color=blue"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alluri-aditya&layout=compact&theme=tokyonight)
 
 ---
 
 # ⚡ Currently Working On
 
-• Improving **Java backend development skills**  
-• Practicing **DSA problems regularly**  
-• Learning **backend architecture and scalable systems**
+• Improving **Java backend development**  
+• Practicing **DSA problems**  
+• Learning **scalable backend architecture**
 ```
