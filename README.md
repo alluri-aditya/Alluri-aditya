@@ -1,22 +1,28 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<p align="center">
+  <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+API+Development;MySQL+Database+Design;Data+Structures+and+Algorithms"/>
+</p>
+
+---
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28"/>
   Hi, I'm <strong>Aditya Alluri</strong>
 </h1>
 
-<h3>Java Backend Developer | Spring Boot • REST APIs • MySQL</h3>
-
 <div align="left">
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 
 <p>
-I build backend systems that power real applications — from API design to database architecture.
-My focus is on building scalable backend services using <b>Java, Spring Boot, and MySQL</b>.
+I build backend systems that power real applications — from API design to database architecture. 
+My focus is on writing clean, scalable backend services using <b>Java, Spring Boot, and MySQL</b>.
 </p>
 
 <p>
-Currently improving my skills in <b>Data Structures & Algorithms, backend architecture, and scalable system design</b>.
+Currently improving my skills in <b>Data Structures & Algorithms, Backend Architecture, and Scalable System Design</b>.
 </p>
 
 <p>
@@ -24,11 +30,10 @@ Currently improving my skills in <b>Data Structures & Algorithms, backend archit
 <a href="mailto:adityaalluri110@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-1e1e2e?style=for-the-badge"/>
 </a>
-<img src="https://img.shields.io/badge/💻_Java_Backend_Developer-1e1e2e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⚡_DSA_Practice-1e1e2e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻_Java_Backend-1e1e2e?style=for-the-badge"/>
 </p>
 
-<h3>🌐 Socials</h3>
+<h3>🌐 Connect With Me</h3>
 <p align="left">
   <a href="https://github.com/alluri-aditya">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
@@ -48,40 +53,24 @@ Currently improving my skills in <b>Data Structures & Algorithms, backend archit
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="center">
-        <h3>💻 Programming</h3>
-        <img src="https://skillicons.dev/icons?i=java&theme=dark"/>
-        <br/>
-        <sub><b>Java</b></sub>
-      </td>
-      <td width="50%" align="center">
-        <h3>📚 Frameworks</h3>
-        <img src="https://skillicons.dev/icons?i=spring&theme=dark"/>
-        <br/>
-        <sub><b>Spring Boot</b></sub>
-      </td>
+      <td align="center"><b>Backend</b></td>
+      <td align="center"><b>Database</b></td>
+      <td align="center"><b>Tools</b></td>
     </tr>
     <tr>
-      <td width="50%" align="center">
-        <h3>🗄️ Databases</h3>
-        <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
-        <br/>
-        <sub><b>MySQL</b></sub>
+      <td>
+        <img src="https://skillicons.dev/icons?i=java,spring"/>
       </td>
-      <td width="50%" align="center">
-        <h3>🧰 Tools</h3>
-        <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,maven&theme=dark"/>
-        <br/>
-        <sub><b>Git</b></sub>&nbsp;&nbsp;
-        <sub><b>GitHub</b></sub>&nbsp;&nbsp;
-        <sub><b>Postman</b></sub>&nbsp;&nbsp;
-        <sub><b>VS Code</b></sub>&nbsp;&nbsp;
-        <sub><b>Maven</b></sub>
+      <td>
+        <img src="https://skillicons.dev/icons?i=mysql"/>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=git,github,postman,maven"/>
       </td>
     </tr>
   </table>
@@ -92,47 +81,14 @@ Currently improving my skills in <b>Data Structures & Algorithms, backend archit
 ## 🚀 Backend Projects
 
 ### 💰 Paytm-like E-Wallet Backend System
+Backend system for digital wallet operations.
+- **Features:** User accounts, P2P transfers, and transaction history.
+- **Stack:** `Java` `Spring Boot` `MySQL` `REST APIs`
 
-Backend system for digital wallet transactions.
-
-**Features:**
-- User account management
-- Wallet recharge APIs
-- Peer-to-peer transfers
-- Transaction history tracking
-
-**Tech Stack**  
-`Java` `Spring Boot` `MySQL` `REST APIs`
-
----
-
-### 🧾 Enterprise Subscription & Billing Management System
-
-Backend service for managing subscription plans and billing cycles.
-
-**Features:**
-- Subscription creation and management
-- Plan upgrades and cancellations
-- Invoice generation
-- Payment tracking
-
-**Tech Stack**  
-`Java` `Spring Boot` `MySQL`
-
----
-
-### 🍔 Food Delivery Platform Backend
-
-Backend APIs for food ordering platform.
-
-**Features:**
-- User registration and authentication
-- Restaurant listings and menu management
-- Order creation and tracking
-- Database schema for orders and restaurants
-
-**Tech Stack**  
-`Java` `Spring Boot` `MySQL`
+### 🧾 Enterprise Subscription & Billing System
+Backend service designed for high-scale subscription management.
+- **Features:** Plan management, invoice generation, and payment tracking.
+- **Stack:** `Java` `Spring Boot` `MySQL`
 
 ---
 
@@ -141,13 +97,11 @@ Backend APIs for food ordering platform.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alluri-aditya&show_icons=true&theme=tokyonight"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=alluri-aditya&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=alluri-aditya&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
-## ⚡ Currently Working On
-
-- Building **production-ready backend APIs**
-- Practicing **DSA for coding interviews**
-- Learning **scalable backend architecture**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=100&section=footer"/>
+</p>
