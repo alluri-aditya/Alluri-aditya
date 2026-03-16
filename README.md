@@ -30,10 +30,10 @@ Currently improving my skills in <b>Data Structures & Algorithms, Backend Archit
 <a href="mailto:adityaalluri110@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-1e1e2e?style=for-the-badge"/>
 </a>
-<img src="https://img.shields.io/badge/💻_Java_Backend-1e1e2e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻_Java_Backend_Developer-1e1e2e?style=for-the-badge"/>
 </p>
 
-<h3>🌐 Connect With Me</h3>
+<h3>🌐 Socials</h3>
 <p align="left">
   <a href="https://github.com/alluri-aditya">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
@@ -53,24 +53,28 @@ Currently improving my skills in <b>Data Structures & Algorithms, Backend Archit
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>Backend</b></td>
-      <td align="center"><b>Database</b></td>
-      <td align="center"><b>Tools</b></td>
+      <td width="50%" align="center">
+        <h3>💻 Programming</h3>
+        <img src="https://skillicons.dev/icons?i=java&theme=dark"/>
+      </td>
+      <td width="50%" align="center">
+        <h3>📚 Frameworks</h3>
+        <img src="https://skillicons.dev/icons?i=spring&theme=dark"/>
+      </td>
     </tr>
     <tr>
-      <td>
-        <img src="https://skillicons.dev/icons?i=java,spring"/>
+      <td width="50%" align="center">
+        <h3>🗄️ Databases</h3>
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
       </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=mysql"/>
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=git,github,postman,maven"/>
+      <td width="50%" align="center">
+        <h3>🧰 Tools</h3>
+        <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,maven&theme=dark"/>
       </td>
     </tr>
   </table>
@@ -82,13 +86,40 @@ Currently improving my skills in <b>Data Structures & Algorithms, Backend Archit
 
 ### 💰 Paytm-like E-Wallet Backend System
 Backend system for digital wallet operations.
-- **Features:** User accounts, P2P transfers, and transaction history.
-- **Stack:** `Java` `Spring Boot` `MySQL` `REST APIs`
 
-### 🧾 Enterprise Subscription & Billing System
-Backend service designed for high-scale subscription management.
-- **Features:** Plan management, invoice generation, and payment tracking.
-- **Stack:** `Java` `Spring Boot` `MySQL`
+**Features:**
+- User account creation and wallet balance management
+- Wallet recharge APIs
+- Peer-to-peer transfers
+- Transaction history APIs
+
+**Tech Stack:** `Java` `Spring Boot` `MySQL` `REST APIs`
+
+---
+
+### 🧾 Enterprise Subscription & Billing Management System
+Backend system designed for subscription management.
+
+**Features:**
+- Subscription creation and plan management
+- Plan upgrades and cancellations
+- Invoice generation
+- Payment tracking APIs
+
+**Tech Stack:** `Java` `Spring Boot` `MySQL`
+
+---
+
+### 🍔 Food Delivery Platform Backend
+Backend APIs supporting a food ordering platform.
+
+**Features:**
+- User registration and authentication APIs
+- Restaurant listings and menu management
+- Order creation and order tracking
+- Database schema for users, restaurants, menus, and orders
+
+**Tech Stack:** `Java` `Spring Boot` `MySQL`
 
 ---
 
