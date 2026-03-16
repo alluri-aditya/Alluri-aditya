@@ -1,8 +1,8 @@
-```md
+```html
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28"/>
   Hi, I'm <strong>Aditya Alluri</strong>
 </h1>
 
@@ -10,11 +10,11 @@
 
 <div align="left">
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 
 <p>
-I build backend systems that power real applications — from API design to database architecture.  
-My focus is on writing clean and scalable backend services using <b>Java, Spring Boot, and MySQL</b>.
+I build backend systems that power real applications — from API design to database architecture.
+My focus is on building scalable backend services using <b>Java, Spring Boot, and MySQL</b>.
 </p>
 
 <p>
@@ -24,13 +24,13 @@ Currently improving my skills in <b>Data Structures & Algorithms, backend archit
 <p>
 <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge"/>
 <a href="mailto:adityaalluri110@gmail.com">
-<img src="https://img.shields.io/badge/📧_adityaalluri110@gmail.com-1e1e2e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📧_Email-1e1e2e?style=for-the-badge"/>
 </a>
 <img src="https://img.shields.io/badge/💻_Java_Backend_Developer-1e1e2e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⚡_DSA_Problem_Solver-1e1e2e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡_DSA_Practice-1e1e2e?style=for-the-badge"/>
 </p>
 
-<h3>🌐 Connect With Me</h3>
+<h3>🌐 Socials</h3>
 
 <p align="left">
 
@@ -48,7 +48,7 @@ Currently improving my skills in <b>Data Structures & Algorithms, backend archit
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=alluri-aditya&style=flat-square&color=blue" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=alluri-aditya&style=flat-square&color=blue" alt="Profile Views"/>
 
 </div>
 
@@ -56,11 +56,12 @@ Currently improving my skills in <b>Data Structures & Algorithms, backend archit
 
 ---
 
-# 🛠️ Skills
+## 🛠️ Skills
 
 <p align="center">
 
 <table>
+
 <tr>
 
 <td width="50%" align="center">
@@ -107,16 +108,16 @@ Currently improving my skills in <b>Data Structures & Algorithms, backend archit
 
 ---
 
-# 🚀 Backend Projects
+## 🚀 Backend Projects
 
 ### 💰 Paytm-like E-Wallet Backend System
 
-Backend system for managing digital wallet transactions.
+Backend system for digital wallet transactions.
 
 Features:
 - User account management
 - Wallet recharge APIs
-- Peer-to-peer money transfer
+- Peer-to-peer transfers
 - Transaction history tracking
 
 Tech Stack  
@@ -126,7 +127,7 @@ Tech Stack
 
 ### 🧾 Enterprise Subscription & Billing Management System
 
-Backend system for handling subscription plans and billing cycles.
+Backend service for managing subscription plans and billing cycles.
 
 Features:
 - Subscription creation and management
@@ -145,8 +146,8 @@ Backend APIs for food ordering platform.
 
 Features:
 - User registration and authentication
-- Restaurant listing and menu management
-- Order creation and order tracking
+- Restaurant listings and menu management
+- Order creation and tracking
 - Database schema for orders and restaurants
 
 Tech Stack  
@@ -154,7 +155,7 @@ Tech Stack
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -168,10 +169,9 @@ Tech Stack
 
 ---
 
-# ⚡ Currently Working On
+## ⚡ Currently Working On
 
 • Building **production-ready backend APIs**  
-• Practicing **advanced DSA for coding interviews**  
+• Practicing **DSA for coding interviews**  
 • Learning **scalable backend architecture**
-
 ```
