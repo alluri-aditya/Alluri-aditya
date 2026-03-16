@@ -56,20 +56,32 @@ Currently improving my skills in <b>Data Structures & Algorithms, backend archit
       <td width="50%" align="center">
         <h3>💻 Programming</h3>
         <img src="https://skillicons.dev/icons?i=java&theme=dark"/>
+        <br/>
+        <sub><b>Java</b></sub>
       </td>
       <td width="50%" align="center">
         <h3>📚 Frameworks</h3>
         <img src="https://skillicons.dev/icons?i=spring&theme=dark"/>
+        <br/>
+        <sub><b>Spring Boot</b></sub>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <h3>🗄️ Databases</h3>
         <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+        <br/>
+        <sub><b>MySQL</b></sub>
       </td>
       <td width="50%" align="center">
         <h3>🧰 Tools</h3>
         <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,maven&theme=dark"/>
+        <br/>
+        <sub><b>Git</b></sub>&nbsp;&nbsp;
+        <sub><b>GitHub</b></sub>&nbsp;&nbsp;
+        <sub><b>Postman</b></sub>&nbsp;&nbsp;
+        <sub><b>VS Code</b></sub>&nbsp;&nbsp;
+        <sub><b>Maven</b></sub>
       </td>
     </tr>
   </table>
